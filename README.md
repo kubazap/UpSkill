@@ -1,41 +1,39 @@
-# UpSkill - Bootcamp Website
-
-A responsive website for a bootcamp program, developed as part of a university internship. The project presents the program, its services, instructors, testimonials, and frequently asked questions through an interactive interface.
+A responsive bootcamp website developed as part of my student internship, featuring program information, services, instructor profiles, client testimonials, and interactive content.
 
 **Live demo:** [View Website](https://kubazap.github.io/UpSkill/)
 
 ## Project Structure
-
 ```text
 UpSkill/
-├── index.html          # Main HTML page containing all website sections
+├── index.html                  # Main website page
 └── assets/
-    ├── css/            # Stylesheets and responsive layout
-    ├── js/             # JavaScript functionality and interactions
-    ├── img/            # Images and other visual assets
-    └── frameworks/     # External libraries and frameworks
+    ├── css/                    # Custom stylesheets
+    ├── js/                     # JavaScript and UI interactions
+    ├── img/                    # Images, logos, and icons
+    └── frameworks/             # Third-party libraries
 ```
 
 ## Features
 
 - **Responsive layout** adapted to desktop and mobile devices.
-- **Mobile navigation** with a toggleable menu.
 - **Services section** presenting bootcamp program information.
-- **Instructor carousel** with Swiper navigation.
-- **Testimonials section** displaying participant feedback.
-- **FAQ accordion** with expandable answers.
-- **Scroll-triggered animations** using AOS.
+- **Instructor carousel** displaying instructor profiles.
+- **Testimonials section** showcasing participant feedback.
+- **Animated sections** triggered by scrolling.
+- **FAQ accordion** for expandable answers.
+- **Mobile navigation** with a toggleable menu.
+- **Animated statistics** displaying numerical counters.
 
 ## Technologies
 
-- **HTML5** and **CSS3**: Page structure, styling, and responsive design.
-- **JavaScript (ES6)**: Interactive elements and functionality.
-- **Bootstrap**: Responsive grid and UI components.
+- **HTML5 and CSS3**: Page structure, styling, and responsive layouts.
+- **JavaScript (ES6)**: Interactive elements and UI behavior.
+- **Bootstrap**: Grid system and responsive components.
 - **Bootstrap Icons**: Interface icons.
-- **Swiper**: Interactive carousel.
+- **Swiper**: Instructor carousel.
 - **AOS**: Scroll-triggered animations.
-- **PureCounter**: Animated counters.
+- **PureCounter**: Animated numerical counters.
 
-## Project Context
+## Context
 
-Developed as part of a university internship, providing practical experience in front-end development, responsive web design, and JavaScript-based interactions.
+Developed as part of my student internship to gain practical experience in front-end development, responsive web design, and interactive user interfaces.
