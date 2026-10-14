@@ -1,4 +1,8 @@
+# UpSkill - Bootcamp Website
+
 A responsive bootcamp website developed as part of my student internship, featuring program information, services, instructor profiles, client testimonials, and interactive content.
+
+![UpSkill Website Preview](assets/img/Website-preview.png)
 
 **Live demo:** [View Website](https://kubazap.github.io/UpSkill/)
 
